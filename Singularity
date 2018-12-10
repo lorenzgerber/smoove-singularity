@@ -4,6 +4,6 @@ From: brentp/smoove:latest
 
 %post
 
-	mkdir /mnt/scratch
-	mkdir /mnt/seq
+	mkdir /scratch
+	mkdir /seq
 
